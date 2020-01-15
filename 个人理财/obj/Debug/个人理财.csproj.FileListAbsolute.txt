@@ -1,0 +1,15 @@
+E:\计算机辅修\C#\个人理财\个人理财\bin\Debug\个人理财.exe.config
+E:\计算机辅修\C#\个人理财\个人理财\bin\Debug\个人理财.exe
+E:\计算机辅修\C#\个人理财\个人理财\bin\Debug\个人理财.pdb
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.csprojResolveAssemblyReference.cache
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.AddExpenditure.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.AddItems.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.Login.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.Properties.Resources.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.csproj.GenerateResource.Cache
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.exe
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.pdb
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.AboutForm.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.MainFrm.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.SelectList.resources
+E:\计算机辅修\C#\个人理财\个人理财\obj\Debug\个人理财.UpdateItems.resources
